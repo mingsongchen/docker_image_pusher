@@ -9,4 +9,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mongo
 #yapipro/yapi
-mysql:8.4
+#mysql:8.4
+redis:7.4.1
