@@ -10,4 +10,6 @@
 #mongo
 #yapipro/yapi
 #mysql:8.4
-redis:7.4.1
+#redis:7.4.1
+zookeeper:3.8
+wurstmeister/kafka:2.13-2.8.1
