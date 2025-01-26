@@ -15,4 +15,5 @@
 #wurstmeister/kafka:2.13-2.8.1
 #provectuslabs/kafka-ui
 #bitnami/kafka:3.8
-maauso/zkui
+#maauso/zkui
+openjdk:8u102-jre
