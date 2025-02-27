@@ -18,4 +18,5 @@
 #maauso/zkui
 #openjdk:8u102-jre
 #openjdk:11
-docker.swagger.io/swaggerapi/swagger-editor:next-v5
+#docker.swagger.io/swaggerapi/swagger-editor:next-v5
+postgres:13.20
