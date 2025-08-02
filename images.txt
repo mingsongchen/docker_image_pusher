@@ -21,5 +21,6 @@
 #docker.swagger.io/swaggerapi/swagger-editor:next-v5
 #postgres:12.1
 #cm2network/steamcmd:latest
-cm2network/steamcmd:root
-cm2network/steamcmd:steam
+#cm2network/steamcmd:root
+#cm2network/steamcmd:steam
+jamesits/dst-server:nightly
