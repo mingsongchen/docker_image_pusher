@@ -19,4 +19,5 @@
 #openjdk:8u102-jre
 #openjdk:11
 #docker.swagger.io/swaggerapi/swagger-editor:next-v5
-postgres:12.1
+#postgres:12.1
+cm2network/steamcmd:latest
