@@ -23,4 +23,6 @@
 #cm2network/steamcmd:latest
 #cm2network/steamcmd:root
 #cm2network/steamcmd:steam
-jamesits/dst-server:nightly
+#jamesits/dst-server:nightly
+minio/minio
+maven:3-openjdk-17-slim
