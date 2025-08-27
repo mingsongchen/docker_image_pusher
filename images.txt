@@ -26,4 +26,5 @@
 #jamesits/dst-server:nightly
 #minio/minio
 #maven:3-openjdk-17-slim
-minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
+#minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
+jenkins/jenkins:lts-jdk11
