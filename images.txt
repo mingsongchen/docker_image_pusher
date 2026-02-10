@@ -29,5 +29,6 @@
 #minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
 #openjdk:17-slim
 #minio/minio:RELEASE.2024-12-18T13-15-44Z
---platform=linux/arm64 openjdk:17.0.2-jdk-slim-bullseye
---platform=linux/amd64 openjdk:17.0.2-jdk-slim-bullseye
+#--platform=linux/arm64 openjdk:17.0.2-jdk-slim-bullseye
+#--platform=linux/amd64 openjdk:17.0.2-jdk-slim-bullseye
+wordpress:php8.3-apache
