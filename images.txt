@@ -37,5 +37,6 @@
 #--platform=linux/amd64 ghcr.io/graalvm/native-image:ol8-java17
 #--platform=linux/arm64 ghcr.io/graalvm/native-image:ol8-java17
 #--platform=linux/amd64 fluent/fluent-bit:4.2.3
---platform=linux/arm64 fluent/fluent-bit:4.2.3.1-debug
+#--platform=linux/arm64 fluent/fluent-bit:4.2.3.1-debug
+neo4j:4.4-community
 
