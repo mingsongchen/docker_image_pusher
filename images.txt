@@ -39,5 +39,5 @@
 #--platform=linux/amd64 fluent/fluent-bit:4.2.3
 #--platform=linux/arm64 fluent/fluent-bit:4.2.3.1-debug
 #neo4j:4.4.40-community
-multiarch/qemu-user-static
+--platfrom=linux/arm64 multiarch/qemu-user-static
 
