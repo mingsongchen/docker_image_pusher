@@ -41,5 +41,5 @@
 #neo4j:4.4.40-community
 #--platform=linux/arm64 multiarch/qemu-user-static
 #--platform=linux/arm64 moby/buildkit:buildx-stable-1
---platform=linux/arm64 timberio/vector:0.40.1-debian
+--platform=linux/arm64 debian:12-slim
 
