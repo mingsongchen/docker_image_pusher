@@ -42,5 +42,7 @@
 #--platform=linux/arm64 multiarch/qemu-user-static
 #--platform=linux/arm64 moby/buildkit:buildx-stable-1
 #--platform=linux/arm64 debian:12-slim
---platform=linux/arm64 paketobuildpacks/builder-jammy-tiny:latest
+#--platform=linux/arm64 paketobuildpacks/builder-jammy-tiny:latest
+hugegraph/hugegraph:1.7.0
+hugegraph/hubble:1.7.0
 
