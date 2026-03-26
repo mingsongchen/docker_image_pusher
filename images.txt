@@ -45,6 +45,5 @@
 #--platform=linux/arm64 paketobuildpacks/builder-jammy-tiny:latest
 #hugegraph/hugegraph:1.7.0
 #hugegraph/hubble:1.7.0
---platform=linux/arm64 24.0-dind-rootless
---platform=linux/amd64 24.0-dind-rootless
+--platform=linux/arm64 mysql:8.4
 
