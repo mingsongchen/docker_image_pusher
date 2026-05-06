@@ -45,5 +45,6 @@
 #--platform=linux/arm64 paketobuildpacks/builder-jammy-tiny:latest
 #hugegraph/hugegraph:1.7.0
 #hugegraph/hubble:1.7.0
---platform=linux/arm64 mysql:8.4
+#--platform=linux/arm64 mysql:8.4
+snowdreamtech/frps:latest
 
