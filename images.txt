@@ -1,5 +1,5 @@
 #nginx
 #--platform=linux/arm64 mysql:8.4
 #snowdreamtech/frps:latest
-hugegraph/rag:1.7.0
+hugegraph/rag-bin:1.7.0
 
