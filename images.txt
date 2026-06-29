@@ -1,22 +1,2 @@
-# 知识图谱调研项目镜像
-# 共享基础设施
-mysql:8.0.39
-valkey/valkey:8
-pgsty/minio:RELEASE.2026-03-25T00-00-00Z
-# LightRAG
-ghcr.io/hkuds/lightrag:latest
-neo4j:5.26.0
-# NebulaGraph
-vesoft/nebula-metad:v3.6.0
-vesoft/nebula-storaged:v3.6.0
-vesoft/nebula-graphd:v3.6.0
-vesoft/nebula-graph-studio:v3
-# OpenSPG
-spg-registry.us-west-1.cr.aliyuncs.com/spg/openspg-server:latest
-spg-registry.us-west-1.cr.aliyuncs.com/spg/openspg-neo4j:latest
-# qKnow
-neo4j:4.4.40
-nginx:latest
-# RAGFlow
-infiniflow/ragflow:v0.26.1
-elasticsearch:8.11.3
+# Youtu-GraphRAG 构建所需基础镜像
+python:3.10
