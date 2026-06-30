@@ -1,5 +1,5 @@
 # Youtu-GraphRAG 构建所需基础镜像
-python:3.10
+python:3.12
 
 # GraphRAG Web 服务
-kylinmountain/graphrag-server:0.3.1
+#kylinmountain/graphrag-server:0.3.1
