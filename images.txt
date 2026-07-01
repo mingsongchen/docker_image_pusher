@@ -1,5 +1,8 @@
 # Youtu-GraphRAG 构建所需基础镜像
-python:3.12
+#python:3.12
 
 # GraphRAG Web 服务
 #kylinmountain/graphrag-server:0.3.1
+
+# Neo4j 5.x 社区版
+neo4j:5-community
