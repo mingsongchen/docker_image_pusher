@@ -14,4 +14,10 @@
 #snowdreamtech/frps:0.68.0
 
 # FRP 内网穿透客户端
-snowdreamtech/frpc:0.68.0
+#snowdreamtech/frpc:0.68.0
+
+# FRP 内网穿透服务端 (ghcr.io)
+ghcr.io/fatedier/frps:v0.68.0
+
+# FRP 内网穿透客户端 (ghcr.io)
+ghcr.io/fatedier/frpc:v0.68.0
