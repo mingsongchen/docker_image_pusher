@@ -11,4 +11,7 @@
 #semitechnologies/weaviate:1.32.23
 
 # FRP 内网穿透服务端
-snowdreamtech/frps:0.68.0
+#snowdreamtech/frps:0.68.0
+
+# FRP 内网穿透客户端
+snowdreamtech/frpc:0.68.0
