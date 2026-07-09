@@ -8,4 +8,7 @@
 #neo4j:5-community
 
 # Weaviate 向量数据库
-semitechnologies/weaviate:1.32.23
+#semitechnologies/weaviate:1.32.23
+
+# FRP 内网穿透服务端
+snowdreamtech/frps:0.68.0
