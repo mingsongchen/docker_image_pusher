@@ -24,4 +24,6 @@
 
 #--platform=linux/arm64 emqx/emqx:5.1.6
 
---platform=linux/arm64 nacos/nacos-server
+# --platform=linux/arm64 nacos/nacos-server
+
+--platform=linux/arm64 rabbitmq:latest
