@@ -22,4 +22,6 @@
 # FRP 内网穿透客户端 (ghcr.io)
 #ghcr.io/fatedier/frpc:v0.68.0
 
---platform=linux/arm64 emqx/emqx:5.1.6
+#--platform=linux/arm64 emqx/emqx:5.1.6
+
+--platform=linux/arm64 nacos/nacos-server
