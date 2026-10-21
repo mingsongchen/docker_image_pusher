@@ -26,4 +26,4 @@
 
 # --platform=linux/arm64 nacos/nacos-server
 
---platform=linux/arm64 rabbitmq:latest
+rabbitmq:latest
