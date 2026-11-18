@@ -26,4 +26,5 @@
 
 # --platform=linux/arm64 nacos/nacos-server
 
-rabbitmq:latest
+#rabbitmq:latest
+mockserver
